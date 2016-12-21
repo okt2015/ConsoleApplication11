@@ -2,10 +2,14 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
+using namespace std;
 
 
 int main()
 {
-    return 0;
+cout << "Hello World 21-12-2016-01" << endl;
+cout << "Hello World 21-12-2016-02" << endl;
+return 0;
 }
 
